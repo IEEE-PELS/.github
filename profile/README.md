@@ -11,6 +11,7 @@ Our mission:
 
 This repository lists publications and software in the field of power electronics
  * [awesome-PELS-open-source-projects](https://github.com/IEEE-PELS/awesome-open-source-power-electronics)
+ * [awesome-PELS-databases](https://github.com/IEEE-PELS/PELS-Publications)
  * [awesome-PELS-ai-tools](https://github.com/IEEE-PELS/ai-for-power-electronics)
  * [awesome-PELS-publications](https://github.com/IEEE-PELS/PELS-Publications)
 
