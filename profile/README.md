@@ -1,4 +1,4 @@
-# Welcome to the IEEE Power Electronics Society GitHub Project
+# Welcome to the IEEE PELS GitHub Initiative
 <img src="logo.png" height="400">
 
 Get a short overview, who we are:
