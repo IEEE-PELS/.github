@@ -1,8 +1,13 @@
-# Welcome to the IEEE Power Electronics Society GitHub Homepage
+# Welcome to the IEEE Power Electronics Society GitHub Project
 <img src="logo.png" width="400">
 
 Get a short overview, who we are:
  * [IEEE PELS Homepage](https://www.ieee-pels.org/)
+
+Our mission: 
+ * Create a unified platform for sharing data, models, and tools in power electronics
+ * Cultivate open-source culture in power electronics research and education
+ * Train the next generation power electronics + AI + software engineers
 
 This repository lists publications and software in the field of power electronics
  * [List of Open Source Power Electronic Tools](https://github.com/IEEE-PELS/awesome-open-source-power-electronics)
