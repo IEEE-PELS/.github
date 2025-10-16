@@ -9,7 +9,7 @@ Our mission:
  * Promote open-source culture in power electronics research and education
  * Train the next generation power electronics + AI + software engineers
 
-This repository lists publications and software in the field of power electronics
+This repository lists databases, publications and software in the field of power electronics
  * [awesome-PELS-Open-Source-Projects](https://github.com/IEEE-PELS/awesome-open-source-power-electronics)
  * [awesome-PELS-Open-Source-Databases](https://github.com/IEEE-PELS/PELS-Publications)
  * [awesome-PELS-Open-Source-AI-Tools](https://github.com/IEEE-PELS/ai-for-power-electronics)
