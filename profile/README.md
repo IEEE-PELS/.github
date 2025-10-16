@@ -1,6 +1,7 @@
 # Welcome to the IEEE Power Electronics Society GitHub Homepage
 
-<img src=".github/logo.png" width="800">
+<img src=".github/profile/logo.png" width="800">
+
 Get a short overview, who we are:
  * [IEEE PELS Homepage](https://www.ieee-pels.org/)
 
