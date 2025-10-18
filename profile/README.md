@@ -3,6 +3,8 @@
 
 Get a short overview, who we are:
  * [IEEE Power Electronics Society (PELS)](https://www.ieee-pels.org/)
+
+We accept submissions of software repositories in conjunction with PELS-sponsored scientific journals:
  * [IEEE Transactions on Power Electronics (TPEL)](https://www.ieee-pels.org/publications/transactions-on-power-electronics/)
  * [Journal of Emerging and Selected Topics in Power Electronics (JESTPE)](https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/)
  * [IEEE Open Journal of Power Electronics (OJPE)](https://www.ieee-pels.org/publications/open-journal-of-power-electronics/)
