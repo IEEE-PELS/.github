@@ -3,6 +3,7 @@
 
 Get a short overview, who we are:
  * [IEEE Power Electronics Society (PELS)](https://www.ieee-pels.org/)
+ * [IEEE PELS TC10: Design Methods and AI Tools](https://www.ieee-pels.org/technical-activities/tc-10-design-methodologies-and-ai-tools/)
 
 We accept submissions of software repositories in conjunction with PELS-sponsored scientific journals:
  * [IEEE Transactions on Power Electronics (TPEL)](https://www.ieee-pels.org/publications/transactions-on-power-electronics/)
