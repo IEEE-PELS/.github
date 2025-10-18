@@ -3,6 +3,10 @@
 
 Get a short overview, who we are:
  * [IEEE PELS Homepage](https://www.ieee-pels.org/)
+ * [IEEE Transactions on Power Electronics](https://www.ieee-pels.org/publications/transactions-on-power-electronics/)
+ * [Journal of Emerging and Selected Topics in Power Electronics](https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/)
+ * [IEEE Open Journal of Power Electronics](https://www.ieee-pels.org/publications/open-journal-of-power-electronics/)
+ * [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/)
 
 Our mission: 
  * Create a unified platform for sharing data, models, and tools in power electronics
