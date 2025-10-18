@@ -9,6 +9,8 @@ We accept submissions of software repositories in conjunction with PELS-sponsore
  * [Journal of Emerging and Selected Topics in Power Electronics (JESTPE)](https://www.ieee-pels.org/publications/journal-of-emerging-and-selected-topics-in-power-electronics/)
  * [IEEE Open Journal of Power Electronics (OJPE)](https://www.ieee-pels.org/publications/open-journal-of-power-electronics/)
  * [IEEE Transactions on Transportation Electrification (TTE)](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/)
+ * [IEEE Power Electronics Magazine](https://www.ieee-pels.org/pels-magazine/)
+ * [IEEE Journal on Wireless Power Technologies](https://www.ieee-pels.org/pels-magazine/)
 <img src="pelspubs.png" width="800">
 
 Our mission: 
