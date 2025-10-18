@@ -11,7 +11,7 @@ We accept submissions of software repositories in conjunction with PELS-sponsore
  * [IEEE Transactions on Transportation Electrification (TTE)](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/)
  * [IEEE Power Electronics Magazine (PEM)](https://www.ieee-pels.org/pels-magazine/)
  * [IEEE Journal on Wireless Power Technologies (JWPT)](https://www.ieee-pels.org/pels-magazine/)
-
+<img src="pelspubs.png" width="800">
 
 Our mission: 
  * Create a unified platform for sharing data, models, and tools in power electronics
